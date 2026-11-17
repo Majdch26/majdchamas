@@ -218,7 +218,6 @@ Complete Tetris in C with SDL2: rotations with wall kicks, ghost piece, hold, sa
 |---|---|
 | **2026 -** | **Master's in Machine Learning & Data Mining (first year)**, Jean Monnet University, Saint-Étienne |
 | **2023 - 2026** | **Bachelor's degree in Computer Science**, Jean Monnet University, Saint-Étienne |
-| **Summer 2025** | **Web development internship**, Jbeil, Lebanon: showcase website for a restaurant with online booking (HTML, CSS, JavaScript, PHP) |
 | **2023** | **French Baccalaureate**, Mathematics and Life Sciences, Collège Notre-Dame des Lourdes, Frères Maristes, Jbeil, Lebanon |
 
 ---
