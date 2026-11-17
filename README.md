@@ -218,7 +218,6 @@ Tetris complet en C avec SDL2 : rotations avec décalage contre les murs, pièce
 |---|---|
 | **2026 -** | **Master 1 Machine Learning & Data Mining**, Université Jean Monnet, Saint-Étienne |
 | **2023 - 2026** | **Licence Informatique**, Université Jean Monnet, Saint-Étienne |
-| **Été 2025** | **Stage en développement web**, Jbail, Liban : site vitrine d'un restaurant avec réservation en ligne (HTML, CSS, JavaScript, PHP) |
 | **2023** | **Baccalauréat français**, spécialités Mathématiques et SVT, Collège Notre-Dame des Lourdes, Frères Maristes, Jbail, Liban |
 
 ---
